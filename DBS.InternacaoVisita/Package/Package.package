@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="6fb06ce0-1381-4519-8c09-b50b32792eb1" solutionId="6fb06ce0-1381-4519-8c09-b50b32792eb1" resetWebServer="false" name="DBS.InternacaoVisita" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <projectItems>
+    <projectItemReference itemId="d2d03628-5987-4d31-881d-7eb5edff98eb" />
+  </projectItems>
+</package>
